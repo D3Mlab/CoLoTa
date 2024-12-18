@@ -5,7 +5,7 @@ This repository contains the implementation of our Web Conference 2025 submissio
 This repository contains the CoLoTa Dataset and implementations of the baselines. CoLoTa is a dataset consisting of 3,300 queries for Commonsense reasoning over Long-Tail entities that can be used for evaluating LLM hallucinations on long-tail entities, as well as commonsense reasoning capabilities of KGQA methods.
 
 
-The dataset contains two subsets targetting two different tasks: (i) [**Question Answering** subset](https://github.com/D3Mlab/cr-lt-kgqa/blob/main/CR-LT-QA.json) containing 1650 questions based on [StrategyQA dataset](https://github.com/eladsegal/strategyqa/tree/main) and (ii) [**Claim Verification** subset](https://github.com/D3Mlab/cr-lt-kgqa/blob/main/CR-LT-ClaimVerification.json) containing 1650 claims based on [Creak dataset](https://github.com/yasumasaonoe/creak).
+The dataset contains two subsets targetting two different tasks: (i) [**Question Answering** subset](https://github.com/D3Mlab/CoLoTa/blob/main/CoLoTa_qa.json) containing 1650 questions based on [StrategyQA dataset](https://github.com/D3Mlab/CoLoTa/blob/main/CoLoTa_qa.json) and (ii) [**Claim Verification** subset](https://github.com/D3Mlab/cr-lt-kgqa/blob/main/CR-LT-ClaimVerification.json) containing 1650 claims based on [Creak dataset](https://github.com/yasumasaonoe/creak).
 
 
 ## Data Format
