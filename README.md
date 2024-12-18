@@ -1,6 +1,6 @@
 
 Thank you for visiting this repository!
-This repository contains the implementation of our the Web Conference 25 submission, **"CoLoTa: A Dataset for Entity-based Commonsense Reasoning over Long-Tail Knowledge"**.
+This repository contains the implementation of our Web Conference 25 submission, **"CoLoTa: A Dataset for Entity-based Commonsense Reasoning over Long-Tail Knowledge"**.
 # Introduction
 This repository contains the CoLoTa Dataset and implementations of the baselines. CoLoTa is a dataset consisting of 3,300 queries for Commonsense reasoning over Long-Tail entities that can be used for evaluating LLM hallucinations on long-tail entities, as well as commonsense reasoning capabilities of KGQA methods.
 
