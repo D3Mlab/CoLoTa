@@ -8,6 +8,12 @@ This repository contains the CoLoTa Dataset and implementations of the baselines
 The dataset contains two subsets targetting two different tasks: (i) [**Question Answering** subset](https://github.com/D3Mlab/CoLoTa/blob/main/CoLoTa_qa.json) containing 1650 questions based on [StrategyQA dataset](https://github.com/eladsegal/strategyqa) and (ii) [**Claim Verification** subset](https://github.com/D3Mlab/CoLoTa/blob/main/CoLoTa_cv.json) containing 1650 claims based on [Creak dataset](https://github.com/yasumasaonoe/creak).
 
 
+## Data Downloading Instructions
+
+You can simply clone the repository or clicking on the [**Question Answering**](https://github.com/D3Mlab/CoLoTa/blob/main/CoLoTa_qa.json)  or  [**Claim Verification**](https://github.com/D3Mlab/CoLoTa/blob/main/CoLoTa_cv.json) tasks and clicking on the *Save link as* option. The dataset can be loaded and viewed by any conventional software tools for loading and viewing .json files, such as the VS Code, Sublime Text, Notepad++, etc.
+
+
+
 ## Data Format
 
 The format of the dataset is in JSON, where each entry contains a query (a question or a claim), the answer, anchor KG entities mentioned in the query and their respective Wikidata QID, an inference rule, relevant KG triples, reasoning steps and the relevant KG triples to each step, and finally the set of reasoning skills and strategies required to answer the query.
