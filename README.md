@@ -10,7 +10,7 @@ The dataset contains two subsets targetting two different tasks: (i) [**Question
 
 ## Data Downloading Instructions
 
-You can simply clone the repository or clicking on the [**Question Answering**](https://github.com/D3Mlab/CoLoTa/blob/main/CoLoTa_qa.json)  or  [**Claim Verification**](https://github.com/D3Mlab/CoLoTa/blob/main/CoLoTa_cv.json) tasks and clicking on the *Save link as* option. The dataset can be loaded and viewed by any conventional software tools for loading and viewing .json files, such as the VS Code, Sublime Text, Notepad++, etc.
+You can simply clone the repository or clicking on the [**Question Answering**](https://github.com/D3Mlab/CoLoTa/blob/main/CoLoTa_qa.json)  or  [**Claim Verification**](https://github.com/D3Mlab/CoLoTa/blob/main/CoLoTa_cv.json) tasks and clicking on the *Save Link As...* option. The dataset can be loaded and viewed by any conventional software tools for loading and viewing .json files, such as the VS Code, Sublime Text, Notepad++, etc.
 
 
 
